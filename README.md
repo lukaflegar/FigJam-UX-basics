@@ -1,4 +1,4 @@
-# Figma/FigJam Exercise
+# Figma/FigJam Practice
 Figma/FigJam projekti za vježbu
 
 Figma redizajn početne web stranice Dump-a 2023
